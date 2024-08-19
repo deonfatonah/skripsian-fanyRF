@@ -1,0 +1,1099 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+              {
+                "context": "Pernikahan atau perkawinan adalah ikatan lahir batin seorang pria dan seorang wanita sebagai suami istri. Tujuan dari menikah adalah untuk membentuk keluarga yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa. Akibat dari tidak memahami tujuan perkawinan akan menyebabkan ketidakharmonisan pasangan suami istri dan perceraian.",
+                "qas": [
+                  {
+                    "id": "1",
+                    "question": "Apa yang dimaksud pernikahan atau perkawinan?",
+                    "answers": [
+                      {
+                        "answer_start": 42,
+                        "text": "ikatan lahir batin seorang pria dan seorang wanita sebagai suami istri"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2",
+                    "question": "Apa tujuan dari pernikahan atau perkawinan?",
+                    "answers": [
+                      {
+                        "answer_start": 100,
+                        "text": "untuk membentuk keluarga yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "3",
+                    "question": "Apa akibat dari tidak memahami tujuan pernikahan atau perkawinan?",
+                    "answers": [
+                      {
+                        "answer_start": 184,
+                        "text": "akan menyebabkan ketidakharmonisan pasangan suami istri dan perceraian"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Hukum perkawinan/pernikahan di Indonesia ada pada pasal 2 ayat 1 dan pasal 2 ayat 2. Pasal 2 ayat 1 tentang perkawinan sah apabila dilakukan menurut hukum masing-masing agamanya dan kepercayaannya. Pasal 2 ayat 2 berisi tiap-tiap perkawinan dicatat menurut peraturan perundangan yang berlaku dan dicatat di KUA.",
+                "qas": [
+                  {
+                    "id": "4",
+                    "question": "Di mana hukum perkawinan di Indonesia diatur?",
+                    "answers": [
+                      {
+                        "answer_start": 286,
+                        "text": "pada pasal 2 ayat 1 dan pasal 2 ayat 2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5",
+                    "question": "Hukum perkawinan ada pada pasal berapa saja?",
+                    "answers": [
+                      {
+                        "answer_start": 286,
+                        "text": "pasal 2 ayat 1 dan pasal 2 ayat 2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "6",
+                    "question": "Apa isi pasal 2 ayat 1?",
+                    "answers": [
+                      {
+                        "answer_start": 308,
+                        "text": "tentang perkawinan sah apabila dilakukan menurut hukum masing-masing agamanya dan kepercayaannya"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7",
+                    "question": "Apa yang menjadi syarat sahnya perkawinan?",
+                    "answers": [
+                      {
+                        "answer_start": 308,
+                        "text": "dilakukan menurut hukum masing-masing agamanya dan kepercayaannya"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "8",
+                    "question": "Apa isi pasal 2 ayat 2?",
+                    "answers": [
+                      {
+                        "answer_start": 388,
+                        "text": "tiap-tiap perkawinan dicatat menurut peraturan perundangan yang berlaku dan dicatat di KUA"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Hak dan kewajiban suami istri terdapat pada UU No 1 tahun 1974. Kewajiban suami istri adalah saling cinta mencintai, hormat menghormati, setia, saling membantu lahir batin.",
+                "qas": [
+                  {
+                    "id": "9",
+                    "question": "Adakah pasal yang membahas hak dan kewajiban suami istri?",
+                    "answers": [
+                      {
+                        "answer_start": 448,
+                        "text": "UU No 1 tahun 1974"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "10",
+                    "question": "Pada pasal berapa hak dan kewajiban suami istri?",
+                    "answers": [
+                      {
+                        "answer_start": 448,
+                        "text": "UU No 1 tahun 1974"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "11",
+                    "question": "Apa saja hak dan kewajiban suami istri?",
+                    "answers": [
+                      {
+                        "answer_start": 472,
+                        "text": "saling cinta mencintai, hormat menghormati, setia, saling membantu lahir batin"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "12",
+                    "question": "Apa isi UU No 1 tahun 1974?",
+                    "answers": [
+                      {
+                        "answer_start": 448,
+                        "text": "Hak dan kewajiban suami istri"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "KDRT adalah kekerasan yang menyebabkan penderitaan fisik atau seksual. Hukum KDRT terdapat pada UU RI No 23 Tahun 2004. UU RI No 23 berisi tentang Penghapusan Kekerasan Dalam Rumah Tangga. Hukum KDRT lainnya terdapat pada Pasal 5 UU No.23 Tahun 2004. Pasal 5 UU No.23 Tahun 2004 melarang kekerasan fisik dalam rumah tangga.",
+                "qas": [
+                  {
+                    "id": "13",
+                    "question": "Apa yang dimaksud KDRT?",
+                    "answers": [
+                      {
+                        "answer_start": 558,
+                        "text": "kekerasan yang menyebabkan penderitaan fisik atau seksual"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "14",
+                    "question": "Dimana hukum KDRT diatur?",
+                    "answers": [
+                      {
+                        "answer_start": 596,
+                        "text": "UU RI No 23 Tahun 2004"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "15",
+                    "question": "Adakah pasal yang membahas larangan kekerasan fisik?",
+                    "answers": [
+                      {
+                        "answer_start": 638,
+                        "text": "Pasal 5 UU No.23 Tahun 2004"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "16",
+                    "question": "Pada pasal berapa larangan kekerasan fisik?",
+                    "answers": [
+                      {
+                        "answer_start": 638,
+                        "text": "Pasal 5 UU No.23 Tahun 2004"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "17",
+                    "question": "Adakah UU yang membahas penghapusan kekerasan fisik?",
+                    "answers": [
+                      {
+                        "answer_start": 596,
+                        "text": "UU RI No 23"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "18",
+                    "question": "Sebutkan UU yang membahas penghapusan kekerasan fisik?",
+                    "answers": [
+                      {
+                        "answer_start": 596,
+                        "text": "UU RI No 23"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "19",
+                    "question": "Apa isi UU RI No 23?",
+                    "answers": [
+                      {
+                        "answer_start": 596,
+                        "text": "tentang Penghapusan Kekerasan Dalam Rumah Tangga"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Batasan usia anak di Indonesia adalah 18 tahun dan dalam perlindungan anak. Undang-Undang Perlindungan Anak ada pada UU RI No 23 tahun 2002. Kewajiban orangtua adalah mengasuh, memelihara, mendidik, melindungi anak, sesuai bakat dan minatnya, serta mencegah perkawinan usia dini. Pasal tentang kewajiban orangtua terhadap anak terdapat pada Pasal 26 UUPA. Hak anak ada empat pilar. Hak anak yaitu hak keberlangsungan hidup, hak perlindungan, hak tumbuh kembang dan hak partisipasi.",
+                "qas": [
+                  {
+                    "id": "20",
+                    "question": "Berapa batasan usia anak di Indonesia?",
+                    "answers": [
+                      {
+                        "answer_start": 692,
+                        "text": "18"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "21",
+                    "question": "Pada UU berapa yang membahas Perlindungan Anak?",
+                    "answers": [
+                      {
+                        "answer_start": 728,
+                        "text": "UU RI No 23 tahun 2002"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "22",
+                    "question": "Adakah pasal yang membahas kewajiban orangtua terhadap anak?",
+                    "answers": [
+                      {
+                        "answer_start": 767,
+                        "text": "Pasal 26 UUPA"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23",
+                    "question": "Pada pasal berapa yang membahas kewajiban orangtua terhadap anak?",
+                    "answers": [
+                      {
+                        "answer_start": 767,
+                        "text": "Pasal 26 UUPA"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "24",
+                    "question": "Apa kewajiban orangtua terhadap anak?",
+                    "answers": [
+                      {
+                        "answer_start": 793,
+                        "text": "mengasuh, memelihara, mendidik, melindungi anak, sesuai bakat dan minatnya, serta mencegah perkawinan usia dini"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "25",
+                    "question": "Apa saja hak anak?",
+                    "answers": [
+                      {
+                        "answer_start": 881,
+                        "text": "hak keberlangsungan hidup, hak perlindungan, hak tumbuh kembang dan hak partisipasi"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },{
+            "paragraphs": [
+              {
+                "context": "Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak. Tugas utama keluarga adalah memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya. Pembangunan keluarga adalah upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera. Tujuan pembangunan keluarga untuk meningkatkan kualitas keluarga. Pembangunan keluarga dilakukan agar dapat timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik.",
+                "qas": [
+                  {
+                    "id": "26",
+                    "question": "Apa yang dimaksud dengan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 0,
+                        "text": "Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "27",
+                    "question": "Unit terkecil dalam masyarakat yang terdiri dari suami istri dan anak disebut?",
+                    "answers": [
+                      {
+                        "answer_start": 0,
+                        "text": "Keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "32",
+                    "question": "Apa tugas utama keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 173,
+                        "text": "memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "33",
+                    "question": "Memenuhi kebutuhan fisik, rohani, perkembangan, dan emosional anggota keluarganya adalah tugas utama dari?",
+                    "answers": [
+                      {
+                        "answer_start": 173,
+                        "text": "keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "34",
+                    "question": "Apa yang dimaksud dengan pembangunan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 238,
+                        "text": "upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "35",
+                    "question": "Upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera merupakan pengertian dari?",
+                    "answers": [
+                      {
+                        "answer_start": 238,
+                        "text": "Pembangunan keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "36",
+                    "question": "Upaya mewujudkan keluarga berkualitas yang hidup dalam lingkungan yang sehat, bahagia, dan sejahtera disebut?",
+                    "answers": [
+                      {
+                        "answer_start": 238,
+                        "text": "Pembangunan keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "37",
+                    "question": "Apa tujuan dari pembangunan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 305,
+                        "text": "meningkatkan kualitas keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "50",
+                    "question": "Timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik adalah akibat dari melakukan?",
+                    "answers": [
+                      {
+                        "answer_start": 349,
+                        "text": "timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik"
+                      }
+                    ]
+                  }
+                ]
+              },{
+                "context": "Undang-Undang tentang Perkembangan Kependudukan dan Pembangunan terdapat pada UU No. 52 Tahun 2009.",
+                "qas": [
+                  {
+                    "id": "28",
+                    "question": "Adakah UU yang mengatur perkembangan kependudukan?",
+                    "answers": [
+                      {
+                        "answer_start": 96,
+                        "text": "UU No. 52 Tahun 2009"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "29",
+                    "question": "Pada Undang-Undang ke berapa yang membahas Perkembangan Kependudukan dan Pembangunan?",
+                    "answers": [
+                      {
+                        "answer_start": 96,
+                        "text": "UU No. 52 Tahun 2009"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "30",
+                    "question": "Apa isi UU No. 52 Tahun 2009?",
+                    "answers": [
+                      {
+                        "answer_start": 134,
+                        "text": "Perkembangan Kependudukan dan Pembangunan"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "31",
+                    "question": "Apa yang dilindungi UU No. 52 Tahun 2009?",
+                    "answers": [
+                      {
+                        "answer_start": 134,
+                        "text": "Perkembangan Kependudukan dan Pembangunan"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Pembangunan keluarga dilakukan agar dapat timbul rasa aman, tenteram, dan harapan masa depan yang lebih baik. Pembangunan keluarga dapat dilakukan dengan membangun keharmonisan pasangan, mendukung perkembangan anak, mempersiapkan remaja, dan memberdayakan lansia. Mempersiapkan remaja dalam pembangunan keluarga adalah membangun ketahanan keluarga remaja dan kualitas remaja.",
+                "qas": [
+                  {
+                    "id": "38",
+                    "question": "Bagaimana cara melakukan pembangunan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 347,
+                        "text": "membangun keharmonisan pasangan, mendukung perkembangan anak, mempersiapkan remaja, dan memberdayakan lansia"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "39",
+                    "question": "Apa yang dimaksud dengan membangun keharmonisan pasangan dalam pembangunan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 347,
+                        "text": "membangun keharmonisan pasangan"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "40",
+                    "question": "Bagaimana keluarga dapat mendukung perkembangan anak dalam pembangunan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 379,
+                        "text": "mendukung perkembangan anak"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "41",
+                    "question": "Apa yang dimaksud dengan mempersiapkan remaja dalam pembangunan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 396,
+                        "text": "membangun ketahanan keluarga remaja dan kualitas remaja"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "42",
+                    "question": "Apa fungsi pembangunan keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 460,
+                        "text": "memberdayakan lansia"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "43",
+                    "question": "Apa yang dilakukan dalam pembangunan keluarga untuk memberdayakan lansia?",
+                    "answers": [
+                      {
+                        "answer_start": 460,
+                        "text": "memberdayakan lansia"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "44",
+                    "question": "Untuk apa kegiatan pemberdayaan ekonomi keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 481,
+                        "text": "pemberdayaan ekonomi keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "45",
+                    "question": "Bagaimana membangun ketahanan keluarga remaja?",
+                    "answers": [
+                      {
+                        "answer_start": 407,
+                        "text": "membangun ketahanan keluarga remaja"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "46",
+                    "question": "Keluarga berkualitas adalah perwujudan dari?",
+                    "answers": [
+                      {
+                        "answer_start": 238,
+                        "text": "Pembangunan keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "47",
+                    "question": "Apa tujuan dari memberdayakan lansia?",
+                    "answers": [
+                      {
+                        "answer_start": 509,
+                        "text": "untuk mewujudkan kesejahteraan keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "48",
+                    "question": "Meningkatnya kualitas lansia dan pemberdayaan keluarga rentan mampu berperan pada?",
+                    "answers": [
+                      {
+                        "answer_start": 574,
+                        "text": "kehidupan keluarga"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "49",
+                    "question": "Mengapa pembangunan keluarga perlu dilakukan?",
+                    "answers": [
+                      {
+                        "answer_start": 618,
+                        "text": "untuk mewujudkan kesejahteraan keluarga"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },{
+            "paragraphs": [
+              {
+                "context": "Penanaman nilai-nilai 8 fungsi keluarga mencakup agama, sosial-budaya, kasih sayang, perlindungan, reproduksi, sosial-pendidikan, ekonomi, dan lingkungan.",
+                "qas": [
+                  {
+                    "id": "51",
+                    "question": "Apa yang dimaksud fungsi agama?",
+                    "answers": [
+                      {
+                        "answer_start": 95,
+                        "text": "tempat pertama anak mengenal agama"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Fungsi Agama adalah tempat pertama anak mengenal agama. Pasangan suami istri harus mengamalkan nilai-nilai agama seperti iman, jujur, kesalehan, dan kasih sayang.",
+                "qas": [
+                  {
+                    "id": "52",
+                    "question": "Apa yang dimaksud iman?",
+                    "answers": [
+                      {
+                        "answer_start": 183,
+                        "text": "mengimani enam Rukun Iman"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "53",
+                    "question": "Apa yang dimaksud jujur?",
+                    "answers": [
+                      {
+                        "answer_start": 211,
+                        "text": "menyampaikan apa adanya"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "54",
+                    "question": "Apa yang dimaksud keshalehan?",
+                    "answers": [
+                      {
+                        "answer_start": 247,
+                        "text": "memiliki nilai moral yang tinggi dengan melakukan sesuatu yang benar secara konsisten"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "55",
+                    "question": "Apa yang dimaksud kasih sayang?",
+                    "answers": [
+                      {
+                        "answer_start": 327,
+                        "text": "ungkapan perasaan dengan penuh perhatian, kesadaran dan kecintaan terhadap seseorang"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Fungsi Sosial Budaya mencakup nilai gotong royong, sopan santun, kerukunan, peduli, kebersamaan, toleransi, dan kesadaran kebangsaan.",
+                "qas": [
+                  {
+                    "id": "56",
+                    "question": "Apa saja nilai dalam fungsi Sosial Budaya Keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 426,
+                        "text": "nilai gotong royong, sopan santun, kerukunan, peduli, kebersamaan, toleransi, dan kesadaran kebangsaan"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "57",
+                    "question": "Apa yang dimaksud gotong royong?",
+                    "answers": [
+                      {
+                        "answer_start": 475,
+                        "text": "melakukan pekerjaan secara bersama-sama yang dilandasi oleh sukarela dan kekeluargaan"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "58",
+                    "question": "Sopan santun adalah?",
+                    "answers": [
+                      {
+                        "answer_start": 539,
+                        "text": "perilaku seseorang yang sesuai dengan norma-norma sosial budaya setempat"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "66",
+                    "question": "Apa tujuan utama dari fungsi Reproduksi Keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 1160,
+                        "text": "tujuan untuk memperoleh keturunan berkualitas"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "72",
+                    "question": "Apa yang dimaksud toleransi?",
+                    "answers": [
+                      {
+                        "answer_start": 666,
+                        "text": "bersikap menghargai pendirian yang berbeda atau bertentangan dengan pendirian sendiri"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Fungsi Cinta dan Kasih Sayang mencakup cinta dan kasih sayang, empati, keakraban, keadilan, pemaaf, kesetiaan, suka menolong, dan pengorbanan.",
+                "qas": [
+                  {
+                    "id": "59",
+                    "question": "Apa yang termasuk dalam fungsi Cinta dan Kasih Sayang Keluarga?",
+                    "answers": [
+                      {
+                        "answer_start": 763,
+                        "text": "cinta dan kasih sayang, empati, keakraban, keadilan, pemaaf, kesetiaan, suka menolong, dan pengorbanan"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "60",
+                    "question": "Apa yang dimaksud cinta dan kasih sayang?",
+                    "answers": [
+                      {
+                        "answer_start": 753,
+                        "text": "kesadaran diri sebagai warga negara Indonesia yang harus menjunjung tinggi harkat dan martabat bangsa"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "61",
+                    "question": "Empati adalah?",
+                    "answers": [
+                      {
+                        "answer_start": 807,
+                        "text": "memahami dan mengerti akan perasaan orang lain"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "62",
+                    "question": "Adil adalah?",
+                    "answers": [
+                      {
+                        "answer_start": 868,
+                        "text": "memperlakukan orang lain dengan sikap tidak memihak"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "63",
+                    "question": "Pemaaf adalah?",
+                    "answers": [
+                      {
+                        "answer_start": 907,
+                        "text": "dapat menerima kesalahan orang lain tanpa perasaan dendam"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "64",
+                    "question": "Suka menolong adalah?",
+                    "answers": [
+                      {
+                        "answer_start": 970,
+                        "text": "tindakan suka membantu orang lain"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "65",
+                    "question": "Pengorbanan adalah?",
+                    "answers": [
+                      {
+                        "answer_start": 1027,
+                        "text": "kerelaan memberikan sebagian haknya untuk membantu orang lain"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Fungsi Perlindungan Keluarga memberikan rasa aman dan tenang, tanggap terhadap situasi berbahaya, bertanggung jawab, siaga, dan menghindari kekerasan dalam rumah tangga.",
+                "qas": [
+                  {
+                    "id": "67",
+                    "question": "Apa yang termasuk dalam nilai-nilai fungsi reproduksi?",
+                    "answers": [
+                      {
+                        "answer_start": 1193,
+                        "text": "tanggung jawab, kesehatan, dan keteguhan dalam menjaga kesucian dan kesetiaan"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Fungsi Sosialisasi dan Pendidikan menjadikan orangtua sebagai pendidik utama. Nilai yang ditanamkan dalam fungsi sosialisasi dan Pendidikan adalah percaya diri, self-esteem, adaptif, rajin, kreatif, tanggung jawab, kerjasama, dan pembelajaran sepanjang hayat.",
+                "qas": [
+                  {
+                    "id": "69",
+                    "question": "Apa nilai-nilai yang ditanamkan dalam fungsi Sosialisasi dan Pendidikan?",
+                    "answers": [
+                      {
+                        "answer_start": 1263,
+                        "text": "percaya diri, self-esteem, adaptif, rajin, kreatif, tanggung jawab, kerjasama, dan pembelajaran sepanjang hayat"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "74",
+                    "question": "Apa itu fungsi sosialisasi dan pendidikan?",
+                    "answers": [
+                      {
+                        "answer_start": 1231,
+                        "text": "menjadikan orangtua sebagai pendidik utama"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Fungsi Ekonomi yaitu keluarga haruslah memenuhi kebutuhan materiil dengan nilai-nilai hemat, teliti, disiplin, ulet, dan menabung.",
+                "qas": [
+                  {
+                    "id": "70",
+                    "question": "Apa yang termasuk dalam fungsi Lingkungan?",
+                    "answers": [
+                      {
+                        "answer_start": 1410,
+                        "text": "keluarga harus menjaga kebersihan dan kesehatan lingkungan"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "context": "Fungsi Lingkungan yaitu keluarga harus menjaga kebersihan dan kesehatan lingkungan. Nilai-nilai fungsi lingkungan meliputi bersih, disiplin, peduli, dan menghindari penggunaan berlebihan.",
+                "qas": [
+                  {
+                    "id": "71",
+                    "question": "Apa itu Fungsi Reproduksi?",
+                    "answers": [
+                      {
+                        "answer_start": 1160,
+                        "text": "tujuan untuk memperoleh keturunan berkualitas"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+          ,{
+            "paragraphs": [
+              {
+                "context": "Perencanaan Persiapan Perkawinan meliputi persiapan Kesehatan, persiapan psikologi, persiapan keuangan, dan persiapan pemahaman hukum. Persiapan Kesehatan dari segi usia Ideal perkawinan yaitu 21 tahun untuk wanita dan 25 tahun untuk pria. Tujuan segi usia ideal menikah 21 untuk Wanita dan 25 untuk pria adalah untuk kesiapan emosional dan kesehatan. Akibat pernikahan dini adalah gangguan kesehatan mental, risiko penyakit seksual, komplikasi kehamilan, risiko psikologis, ekonomi, pendidikan, dan hukum.",
+                "qas": [
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 35,
+                        "text": "persiapan Kesehatan, persiapan psikologi, persiapan keuangan, dan persiapan pemahaman hukum"
+                      }
+                    ],
+                    "id": "76",
+                    "question": "Apa yang termasuk dalam persiapan Perencanaan Persiapan Perkawinan?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 90,
+                        "text": "21"
+                      }
+                    ],
+                    "id": "77",
+                    "question": "Berapa usia ideal perkawinan bagi wanita?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 115,
+                        "text": "25"
+                      }
+                    ],
+                    "id": "78",
+                    "question": "Berapa usia ideal perkawinan bagi pria?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 154,
+                        "text": "untuk kesiapan emosional dan kesehatan"
+                      }
+                    ],
+                    "id": "79",
+                    "question": "Apa tujuan usia ideal untuk perkawinan adalah 21 tahun untuk wanita dan 25 tahun untuk pria?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 185,
+                        "text": "gangguan kesehatan mental, risiko penyakit seksual, komplikasi kehamilan, risiko psikologis, ekonomi, pendidikan, dan hukum"
+                      }
+                    ],
+                    "id": "80",
+                    "question": "Apa akibat dari pernikahan dini?"
+                  }
+                ]
+              },
+              {
+                "context": "Pemeriksaan Kesehatan meliputi pemeriksaan umum, fisik, darah, penyakit turunan, dan penyakit menular. Imunisasinya meliputi TT, Hepatitis B, MMR, varisela, dan HPV.",
+                "qas": [
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 223,
+                        "text": "pemeriksaan umum, fisik, darah, penyakit turunan, dan penyakit menular"
+                      }
+                    ],
+                    "id": "81",
+                    "question": "Apa saja yang dilakukan dalam pemeriksaan kesehatan sebagai bagian dari persiapan perkawinan/pernikahan?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 285,
+                        "text": "TT, Hepatitis B, MMR, varisela, dan HPV"
+                      }
+                    ],
+                    "id": "82",
+                    "question": "Apa imunisasi yang direkomendasikan dalam persiapan kesehatan untuk perkawinan/pernikahan?"
+                  }
+                ]
+              },
+              {
+                "context": "Persiapan psikologi adalah pengetahuan peran sebagai suami/istri, kemampuan komunikasi, negosiasi, dan manajemen konflik. Persiapan pemahaman hukum dalam pernikahan mencakup syarat sah perkawinan, pelaporan minimal 10 hari sebelum tanggal pernikahan, dan memastikan tidak ada halangan hukum seperti hubungan terlarang. Syarat Sah Perkawinan yaitu persetujuan kedua mempelai, hukum agama, usia cukup.",
+                "qas": [
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 328,
+                        "text": "pengetahuan peran sebagai suami/istri, kemampuan komunikasi, negosiasi, dan manajemen konflik"
+                      }
+                    ],
+                    "id": "83",
+                    "question": "Apa yang dimaksud dalam persiapan psikologi?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 368,
+                        "text": "syarat sah perkawinan, pelaporan minimal 10 hari sebelum tanggal pernikahan, dan memastikan tidak ada halangan hukum seperti hubungan terlarang"
+                      }
+                    ],
+                    "id": "84",
+                    "question": "Apa yang termasuk dalam persiapan pemahaman hukum untuk perkawinan?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 450,
+                        "text": "persetujuan kedua mempelai, hukum agama, usia cukup"
+                      }
+                    ],
+                    "id": "85",
+                    "question": "Apa yang menjadi syarat sah perkawinan?"
+                  }
+                ]
+              },
+              {
+                "context": "Usia cukup menikah yaitu 18 tahun bagi wanita menurut UU Perlindungan Anak. Hal yang harus diperhatikan calon pengantin adalah usia pernikahan, membangun hubungan sosial yang baik, merencanakan kelahiran anak, berhenti melahirkan di usia 35 tahun, dan merawat anak balita dengan baik.",
+                "qas": [
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 487,
+                        "text": "18 tahun"
+                      }
+                    ],
+                    "id": "86",
+                    "question": "Berapa usia cukup menikah?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 493,
+                        "text": "UU Perlindungan Anak"
+                      }
+                    ],
+                    "id": "87",
+                    "question": "Apa yang menjadi panduan usia yang cukup untuk menikah menurut UU Perlindungan Anak?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 537,
+                        "text": "usia pernikahan, membangun hubungan sosial yang baik, merencanakan kelahiran anak, berhenti melahirkan di usia 35 tahun, dan merawat anak balita dengan baik"
+                      }
+                    ],
+                    "id": "88",
+                    "question": "Apa yang harus diperhatikan oleh calon pengantin terkait usia pernikahan?"
+                  }
+                ]
+              },
+              {
+                "context": "Keluarga berkualitas adalah keluarga yang menanamkan harapan, memberikan teladan, nasihat, lingkungan aman, kebaikan, pujian, dan hukuman mendidik. Panduan usia yang cukup menikah menurut UU Perlindungan Anak adalah 18 tahun bagi wanita. Calon pengantin perlu memperhatikan kesiapan emosional, kesehatan, dan stabilitas finansial terkait usia pernikahan. Membangun hubungan sosial yang baik sebelum menikah penting untuk memahami diri sendiri dan orang lain lebih baik. Merencanakan kelahiran anak dalam persiapan pernikahan membantu mempersiapkan kebutuhan finansial dan emosional. Berhenti melahirkan di usia 35 tahun untuk mengurangi risiko komplikasi kehamilan dan kesehatan ibu. Merawat anak balita dengan baik membantu dalam pembentukan ikatan keluarga yang kuat dan kesejahteraan anak.",
+                "qas": [
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 634,
+                        "text": "memahami diri sendiri dan orang lain lebih baik"
+                      }
+                    ],
+                    "id": "89",
+                    "question": "Mengapa penting untuk membangun hubungan sosial yang baik sebelum menikah?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 670,
+                        "text": "membantu mempersiapkan kebutuhan finansial dan emosional"
+                      }
+                    ],
+                    "id": "90",
+                    "question": "Mengapa direkomendasikan untuk merencanakan kelahiran anak dalam persiapan pernikahan?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 710,
+                        "text": "mengurangi risiko komplikasi kehamilan dan kesehatan ibu"
+                      }
+                    ],
+                    "id": "91",
+                    "question": "Mengapa penting untuk berhenti melahirkan di usia 35 tahun?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 751,
+                        "text": "membantu dalam pembentukan ikatan keluarga yang kuat dan kesejahteraan anak"
+                      }
+                    ],
+                    "id": "92",
+                    "question": "Mengapa merawat anak balita dengan baik menjadi hal penting dalam persiapan pernikahan?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 798,
+                        "text": "memberikan motivasi dan arah bagi anggota keluarga"
+                      }
+                    ],
+                    "id": "93",
+                    "question": "Mengapa menanamkan harapan dalam keluarga dianggap penting?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 831,
+                        "text": "membantu menciptakan rasa keamanan dan stabilitas bagi anggota keluarga"
+                      }
+                    ],
+                    "id": "94",
+                    "question": "Mengapa lingkungan yang aman merupakan elemen penting dalam keluarga berkualitas?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 873,
+                        "text": "membantu dalam pembentukan perilaku dan karakter yang baik pada anggota keluarga"
+                      }
+                    ],
+                    "id": "95",
+                    "question": "Mengapa penting bagi keluarga untuk memberikan pujian dan hukuman mendidik?"
+                  }
+                ]
+              },
+              {
+                "context": "Usia ideal pernikahan terkait dengan kesiapan emosional dan kesehatan karena pada usia tersebut, seseorang dianggap lebih matang dan siap menghadapi tanggung jawab perkawinan. Gangguan kesehatan mental bisa terjadi pada pernikahan dini karena kurangnya kesiapan emosional dan pengalaman hidup yang belum matang. Pemeriksaan penyakit turunan dan penyakit menular penting untuk mencegah penularan penyakit dan memastikan kesehatan yang baik bagi kedua pasangan. Memahami peran sebagai suami/istri membantu pasangan memahami tanggung jawab dan ekspektasi dalam perkawinan. Kemampuan komunikasi, negosiasi, dan manajemen konflik membantu pasangan memecahkan masalah dan membangun hubungan yang sehat dan harmonis dalam pernikahan.",
+                "qas": [
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 936,
+                        "text": "dengan kesiapan emosional dan kesehatan karena pada usia tersebut, seseorang dianggap lebih matang dan siap menghadapi tanggung jawab perkawinan"
+                      }
+                    ],
+                    "id": "96",
+                    "question": "Bagaimana keterkaitan antara usia ideal pernikahan dengan kesiapan emosional dan kesehatan?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 1014,
+                        "text": "karena kurangnya kesiapan emosional dan pengalaman hidup yang belum matang"
+                      }
+                    ],
+                    "id": "97",
+                    "question": "Mengapa gangguan kesehatan mental dapat menjadi akibat dari pernikahan dini?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 1065,
+                        "text": "kesiapan emosional, kesehatan, dan stabilitas finansial terkait usia pernikahan"
+                      }
+                    ],
+                    "id": "98",
+                    "question": "Hal yang harus diperhatikan calon pengantin adalah?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 1106,
+                        "text": "18 tahun"
+                      }
+                    ],
+                    "id": "99",
+                    "question": "Panduan usia yang cukup menikah menurut UU Perlindungan Anak?"
+                  },
+                  {
+                    "answers": [
+                      {
+                        "answer_start": 1144,
+                        "text": "memahami diri sendiri dan orang lain lebih baik"
+                      }
+                    ],
+                    "id": "100",
+                    "question": "Membangun hubungan sosial yang baik sebelum menikah penting untuk?"
+                  }
+                ]
+              }
+            ]
+          }
+          
+    ]
+  }
+  
